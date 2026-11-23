@@ -1,11 +1,11 @@
 {
   "source": "Cloudflare Zone Analytics",
   "zone": "owo24.com + wood-glitch.com",
-  "periodStart": "2026-10-23",
-  "periodEnd": "2026-11-22",
-  "updatedAt": "2026-11-22T10:20:50+08:00",
-  "visitors": 4309,
-  "pageViews": 13755,
-  "requests": 34071,
+  "periodStart": "2026-10-24",
+  "periodEnd": "2026-11-23",
+  "updatedAt": "2026-11-23T12:09:51+08:00",
+  "visitors": 4533,
+  "pageViews": 14133,
+  "requests": 36162,
   "note": "访问人数为 Cloudflare 日唯一访客数汇总；总访问量为同期 HTML 页面浏览量。"
 }
